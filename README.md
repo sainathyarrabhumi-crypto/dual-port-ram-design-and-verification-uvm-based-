@@ -1,11 +1,11 @@
-#12x64 Parameterized SoC-Level Verification (UVM)
+#1024x64 Parameterized SoC-Level Verification (UVM)
 📌 Project Overview
 
-This project implements a UVM-based verification environment for a 12x64 parameterized design at the SoC level. The environment instantiates 4 DUTs, verifies them individually and in parallel, and uses virtual sequences and sequencers for coordinated stimulus generation across multiple interfaces.
+This project implements a UVM-based verification environment for a 1024x64 parameterized design at the SoC level. The environment instantiates 4 DUTs, verifies them individually and in parallel, and uses virtual sequences and sequencers for coordinated stimulus generation across multiple interfaces.
 
 🛠️ Features
 
-Design: 12x64 parameterized DUT (configurable width/depth)
+Design: 1024x64 parameterized DUT (configurable width/depth)
 
 Verification:
 
