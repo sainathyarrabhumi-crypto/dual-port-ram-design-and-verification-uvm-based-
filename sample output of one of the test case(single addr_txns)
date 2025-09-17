@@ -1,3 +1,27 @@
+# ** Report counts by severity
+# UVM_INFO :  283
+# UVM_WARNING :    0
+# UVM_ERROR :    0
+# UVM_FATAL :    0
+# ** Report counts by id
+# [MEM Function]    27
+# [MEM Write Function]    21
+# [Questa UVM]     2
+# [RAM_RD_DRIVER]    40
+# [RAM_RD_MONITOR]    27
+# [RAM_WR_DRIVER]    40
+# [RAM_WR_MONITOR]    21
+# [READ SB]    27
+# [RNTST]     1
+# [TEST_DONE]     1
+# [UVMTOP]     8
+# [WRITE SB]    21
+# [ram_rd_driver]     4
+# [ram_rd_monitor]     4
+# [ram_scoreboard]    31
+# [ram_wr_driver]     4
+# [ram_wr_monitor]     4
+
 # --------------------------------------
 # UVM_INFO ../wr_agt_top/ram_wr_driver.sv(98) @ 5110: uvm_test_top.ram_envh.wagt_top[3].agnth.drvh [RAM_WR_DRIVER] printing from driver
 #  ----------------------------------------------------------------------------------------------------------
